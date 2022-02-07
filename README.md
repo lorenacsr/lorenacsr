@@ -1,6 +1,6 @@
 # Brief Profile
 
-### Lorena Carolina da Silva dos Reis
+### Lorena Carolina da Silva dos Reis (Lorena Reis)
 * 28 years
 * Farmacêutica em constante aprimoramento na área de dados<br/>
   Pharmacist in constant improvement in the data area
