@@ -1,15 +1,14 @@
-# Olá! Eu sou a Lorena Reis 👋
+# Lorena Reis
 
-### 🧬 Farmacêutica | 📊 Graduanda em Ciência de Dados | 🏥 Foco em Health Data Science
+Sou farmacêutica na atenção básica do SUS e graduanda em Ciência de Dados na Univesp. No meu trabalho, acompanho consumo, estoque e compras de medicamentos. Foi daí que veio meu interesse por análise de dados: quero entender o que os registros conseguem explicar e como podem orientar uma decisão.
 
-Profissional com sólida vivência na gestão de assistência farmacêutica, regulação sanitária e planejamento logístico no SUS. Atualmente, uno a minha visão sistêmica do setor da saúde com a programação e a análise de dados para otimizar a tomada de decisão, automatizar fluxos e promover a eficiência operacional em saúde pública.
+Busco oportunidades em análise de dados, com interesse em saúde, operações e planejamento de demanda.
 
-- 🎓 **Foco Acadêmico:** Graduanda em Ciência de Dados pela Univesp e participante do programa PET-Saúde Digital.
-- 🎯 **Áreas de Interesse:** Análise de Dados em Saúde, Previsão de Demanda, Painéis Gerenciais (Dashboards) e Automação.
+## Projetos
 
----
+- [Previsão de consumo de medicamentos](https://github.com/lorenacsr/previsao-demanda-sus) — estudo em Python com dados simulados para explorar como uma série mensal pode apoiar o planejamento de estoque.
+- [Pizzaria Check In](https://github.com/lorenacsr/PJI1) — revisão técnica de um sistema de checklist criado em equipe. Nos testes, identifiquei problemas de uso no celular com o texto ampliado e registrei o que precisava ser ajustado.
 
-<div>
-  <a href="mailto:reis.lorena@unifesp.br" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lorena-reis-1b7b90182" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/lorena-reis-1b7b90182) · [E-mail](mailto:reis.lorena@unifesp.br)
