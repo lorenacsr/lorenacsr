@@ -1,0 +1,4 @@
+contrato_id,fornecedor_id,prazo_dias,tipo_dias,marco,regra_validada,ajustar_vencimento,fundamento
+C1,F1,15,corridos,envio_af,1,1,Cláusula fictícia para demonstração; não é contrato municipal
+C2,F2,15,corridos,envio_af,1,1,Cláusula fictícia para demonstração; não é contrato municipal
+C3,F3,15,corridos,envio_af,1,1,Cláusula fictícia para demonstração; não é contrato municipal

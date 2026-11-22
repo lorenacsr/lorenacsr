@@ -1,0 +1,4 @@
+fornecedor_id,af_itens,quantidade_pedida,quantidade_entregue,quantidade_pendente,pendencias_vencidas,regras_pendentes,valor_pendente_centavos,pontualidade_concluidos_pct
+F1,16,10203,6885,3318,7,0,161523,33.33
+F2,17,10355,7882,2473,6,0,114995,36.36
+F3,17,10494,7133,3361,7,0,162483,30.0

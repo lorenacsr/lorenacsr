@@ -1,0 +1,17 @@
+-- Criar cada medida separadamente em Modelagem > Nova medida.
+-- Separador de argumentos pode depender da configuração regional.
+Planejado = SUM(FatoDemanda[planejado])
+Solicitado = SUM(FatoDemanda[solicitado])
+Desvio Unidades = [Solicitado] - [Planejado]
+Desvio Percentual = DIVIDE([Desvio Unidades], [Planejado])
+Excesso Local = SUM(FatoDemanda[excesso_unidades])
+Quantidade Pedida = SUM(FatoAF[quantidade])
+Quantidade Entregue = SUM(FatoAF[entregue])
+Saldo Pendente = SUM(FatoAF[pendente])
+Valor Pendente = DIVIDE(SUM(FatoAF[valor_pendente_centavos]), 100)
+AF Itens Concluidos = CALCULATE(COUNTROWS(FatoAF), FatoAF[situacao] IN {"concluido_no_prazo", "concluido_com_atraso"})
+AF Itens Pontuais = CALCULATE(COUNTROWS(FatoAF), FatoAF[situacao] = "concluido_no_prazo")
+Pontualidade Concluidos = DIVIDE([AF Itens Pontuais], [AF Itens Concluidos])
+AF Itens Vencidos = CALCULATE(COUNTROWS(FatoAF), FatoAF[situacao] = "pendente_vencido")
+Regras Pendentes = CALCULATE(COUNTROWS(FatoAF), FatoAF[situacao] = "regra_pendente")
+Conciliacao Quantidades = [Quantidade Pedida] - [Quantidade Entregue] - [Saldo Pendente]

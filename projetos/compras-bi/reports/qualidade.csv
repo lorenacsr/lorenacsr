@@ -1,0 +1,7 @@
+fonte,linha,chave,acao,motivo
+demandas,202,D0001,duplicata_removida,Registro idêntico
+demandas,3,D0002,padronizado,unidade_id: espaços/caixa
+demandas,203,D_ERRO,rejeitado,Quantidade negativa
+demandas,204,D_REF,rejeitado,Referência inexistente
+af_itens,52,AF_CONFLITO,rejeitado,Chave com versões conflitantes
+af_itens,53,AF_CONFLITO,rejeitado,Chave com versões conflitantes

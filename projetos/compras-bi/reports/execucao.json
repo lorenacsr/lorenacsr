@@ -1,0 +1,38 @@
+{
+  "demandas": {
+    "entrada": 203,
+    "aceitos": 200,
+    "duplicatas": 1,
+    "rejeitados": 2
+  },
+  "af_itens": {
+    "entrada": 52,
+    "aceitos": 50,
+    "duplicatas": 0,
+    "rejeitados": 2
+  },
+  "entregas": {
+    "entrada": 50,
+    "aceitos": 50,
+    "duplicatas": 0,
+    "rejeitados": 0
+  },
+  "totais": {
+    "pedido": 31052,
+    "entregue": 21900,
+    "pendente": 9152,
+    "valor_pendente_centavos": 439001
+  },
+  "data_corte": "2026-11-22",
+  "origem": "Dados inteiramente simulados; regras contratuais fictícias",
+  "sha256_entradas": {
+    "af_itens.csv": "3751964a854d651db47e1fc6b27235cd0352a62364a1a43211d29849234a26ca",
+    "calendario.csv": "47224a568fc2b202a75169e56fd87f45c33c28d63cc1e9f99ba5113a3858dc5c",
+    "contratos.csv": "010dac6c477c218d9cf19e8e361d4d8bff2c3cd798ae00175f888ad8820e991c",
+    "demandas.csv": "5a9f2152b5636e2569569ca4d4677d6b4abb27a8db75612ba25bb69b657c5ecc",
+    "entregas.csv": "4cd53575264dad6f542c298ca77f47e913fd0357cbd29898c6f7aead2601128d",
+    "fornecedores.csv": "b96299d09b165ef1dceea6ab829ff3a3bd5b72e8d04a6ea26e5e23e6119a80ef",
+    "itens.csv": "6911db052da07ef5011223504c97f64bc388cb6d96ab92d006ed3a5566599d08",
+    "unidades.csv": "0bd6719f232f0f6d6485d89e9ee78d9e4906f44b21603ecbd6d35b82701bf00f"
+  }
+}
